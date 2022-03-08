@@ -1,0 +1,199 @@
+,0
+Age,0
+Gender_Female,0
+Gender_Male,0
+"Median_Household_Income_$35,000 - $39,999",0
+"Median_Household_Income_$40,000 - $44,999",0
+"Median_Household_Income_$45,000 - $49,999",0
+"Median_Household_Income_$50,000 - $54,999",0
+"Median_Household_Income_$55,000 - $59,999",0
+"Median_Household_Income_$60,000 - $64,999",0
+"Median_Household_Income_$65,000 - $69,999",0
+"Median_Household_Income_$70,000 - $74,999",0
+"Median_Household_Income_$75,000+",0
+"Median_Household_Income_< $35,000",0
+Median_Household_Income_Unknown,0
+Cancer_Type_ Acinar Cell Neoplasms,0
+Cancer_Type_ Adenomas And Adenocarcinomas,0
+Cancer_Type_ Adnexal And Skin Appendage Neoplasms,0
+Cancer_Type_ Basal Cell Neoplasms,0
+Cancer_Type_ Blood Vessel Tumors,0
+Cancer_Type_ Complex Epithelial Neoplasms,0
+Cancer_Type_ Complex Mixed And Stromal Neoplasms,0
+"Cancer_Type_ Cystic, Mucinous And Serous Neoplasms",0
+Cancer_Type_ Ductal And Lobular Neoplasms,0
+"Cancer_Type_ Epithelial Neoplasms, Nos",0
+Cancer_Type_ Fibroepithelial Neoplasms,0
+Cancer_Type_ Fibromatous Neoplasms,0
+Cancer_Type_ Germ Cell Neoplasms,0
+Cancer_Type_ Giant Cell Tumors,0
+Cancer_Type_ Gliomas,0
+Cancer_Type_ Granular Cell Tumors & Alveolar Soft Part Sarcoma,0
+Cancer_Type_ Hodgkin Lymphomas,0
+Cancer_Type_ Lipomatous Neoplasms,0
+Cancer_Type_ Lymphatic Vessel Tumors,0
+Cancer_Type_ Lymphoid Leukemias (C42.1),0
+"Cancer_Type_ Malignant Lymphomas, Nos Or Diffuse",0
+Cancer_Type_ Mesonephromas,0
+Cancer_Type_ Mesothelial Neoplasms,0
+"Cancer_Type_ Miscellaneous Bone Tumors (C40._, C41._)",0
+Cancer_Type_ Miscellaneous Tumors,0
+Cancer_Type_ Mucoepidermoid Neoplasms,0
+Cancer_Type_ Myomatous Neoplasms,0
+Cancer_Type_ Myxomatous Neoplasms,0
+Cancer_Type_ Nerve Sheath Tumors,0
+Cancer_Type_ Neuroepitheliomatous Neoplasms,0
+Cancer_Type_ Nevi And Melanomas,0
+Cancer_Type_ Nhl - Mature B-Cell Lymphomas,0
+Cancer_Type_ Nhl - Mature T And Nk-Cell Lymphomas,0
+Cancer_Type_ Nhl - Precursor Cell Lymphoblastic Lymphoma,0
+Cancer_Type_ Odontogenic Tumors (C41._),0
+Cancer_Type_ Osseous And Chondromatous Neoplasms,0
+Cancer_Type_ Plasma Cell Tumors,0
+"Cancer_Type_ Soft Tissue Tumors And Sarcomas, Nos",0
+Cancer_Type_ Specialized Gonadal Neoplasms,0
+Cancer_Type_ Squamous Cell Neoplasms,0
+Cancer_Type_ Synovial-Like Neoplasms,0
+Cancer_Type_ Transitional Cell Papillomas And Carcinomas,0
+Cancer_Type_ Trophoblastic Neoplasms,0
+Cancer_Type_ Unspecified Neoplasms,0
+Cancer_Stage_0,0
+Cancer_Stage_0a,0
+Cancer_Stage_0is,0
+Cancer_Stage_I,0
+Cancer_Stage_IA,0
+Cancer_Stage_IA1,0
+Cancer_Stage_IA2,0
+Cancer_Stage_IANOS,0
+Cancer_Stage_IB,0
+Cancer_Stage_IB1,0
+Cancer_Stage_IB2,0
+Cancer_Stage_IBNOS,0
+Cancer_Stage_IC,0
+Cancer_Stage_IE,0
+Cancer_Stage_IEA,0
+Cancer_Stage_IEB,0
+Cancer_Stage_II,0
+Cancer_Stage_IIA,0
+Cancer_Stage_IIA1,0
+Cancer_Stage_IIA2,0
+Cancer_Stage_IIANOS,0
+Cancer_Stage_IIB,0
+Cancer_Stage_IIC,0
+Cancer_Stage_IIE,0
+Cancer_Stage_IIEA,0
+Cancer_Stage_IIEB,0
+Cancer_Stage_IIES,0
+Cancer_Stage_IIESA,0
+Cancer_Stage_IIESB,0
+Cancer_Stage_III,0
+Cancer_Stage_IIIA,0
+Cancer_Stage_IIIB,0
+Cancer_Stage_IIIC,0
+Cancer_Stage_IIIC1,0
+Cancer_Stage_IIIC2,0
+Cancer_Stage_IIIE,0
+Cancer_Stage_IIIEA,0
+Cancer_Stage_IIIEB,0
+Cancer_Stage_IIIES,0
+Cancer_Stage_IIIESA,0
+Cancer_Stage_IIIESB,0
+Cancer_Stage_IIINOS,0
+Cancer_Stage_IIIS,0
+Cancer_Stage_IIISA,0
+Cancer_Stage_IIISB,0
+Cancer_Stage_IINOS,0
+Cancer_Stage_IIS,0
+Cancer_Stage_IISA,0
+Cancer_Stage_IISB,0
+Cancer_Stage_INOS,0
+Cancer_Stage_IS,0
+Cancer_Stage_ISA,0
+Cancer_Stage_ISB,0
+Cancer_Stage_IV,0
+Cancer_Stage_IVA,0
+Cancer_Stage_IVA1,0
+Cancer_Stage_IVA2,0
+Cancer_Stage_IVB,0
+Cancer_Stage_IVC,0
+Cancer_Stage_IVNOS,0
+Cancer_Stage_OCCULT,0
+Race_Hispanic (All Races),0
+Race_Non-Hispanic American Indian/Alaska Native,0
+Race_Non-Hispanic Asian or Pacific Islander,0
+Race_Non-Hispanic Black,0
+Race_Non-Hispanic Unknown Race,0
+Race_Non-Hispanic White,0
+Cancer_Site_Ampulla,0
+Cancer_Site_AntEpiglottis,0
+Cancer_Site_AntTongue,0
+Cancer_Site_Anus,0
+Cancer_Site_BaseTongue,0
+Cancer_Site_Bladder,0
+Cancer_Site_Bone,0
+Cancer_Site_Breast,0
+Cancer_Site_BuccalMucosa,0
+Cancer_Site_Cervix,0
+Cancer_Site_Colon,0
+Cancer_Site_Corpus,0
+Cancer_Site_Esophagus,0
+Cancer_Site_EthmoidSinus,0
+Cancer_Site_ExtraHepaticDucts,0
+Cancer_Site_FOM,0
+Cancer_Site_FallopianTube,0
+Cancer_Site_Gallbladder,0
+Cancer_Site_GlotticLarynx,0
+Cancer_Site_GumLower,0
+Cancer_Site_GumUpper,0
+Cancer_Site_HardPalate,0
+Cancer_Site_HeartMediastinum,0
+Cancer_Site_HemeRetic,0
+Cancer_Site_Hypopharynx,0
+Cancer_Site_Kidney,0
+Cancer_Site_LipLower,0
+Cancer_Site_LipUpper,0
+Cancer_Site_Liver,0
+Cancer_Site_Lung,0
+Cancer_Site_Lymphoma,0
+Cancer_Site_MF,0
+Cancer_Site_MaxillarySinus,0
+Cancer_Site_Melanoma,0
+Cancer_Site_MelanomaChoroid,0
+Cancer_Site_MelanomaIrisCiliary,0
+Cancer_Site_NasalCavity,0
+Cancer_Site_Nasopharynx,0
+Cancer_Site_Oropharynx,0
+Cancer_Site_OthEndocrine,0
+Cancer_Site_OthGum,0
+Cancer_Site_OthLarynx,0
+Cancer_Site_OthLip,0
+Cancer_Site_OthMouth,0
+Cancer_Site_OthPancreas,0
+Cancer_Site_OthPharynx,0
+Cancer_Site_OthSalivary,0
+Cancer_Site_Ovary,0
+Cancer_Site_PancreasBodyTail,0
+Cancer_Site_PancreasHead,0
+Cancer_Site_ParotidGland,0
+Cancer_Site_Penis,0
+Cancer_Site_Peritoneum,0
+Cancer_Site_Placenta,0
+Cancer_Site_Pleura,0
+Cancer_Site_Prostate,0
+Cancer_Site_Rectum,0
+Cancer_Site_RenalPelvis,0
+Cancer_Site_Scrotum,0
+Cancer_Site_Skin,0
+Cancer_Site_SkinEyelid,0
+Cancer_Site_SmallIntestine,0
+Cancer_Site_SoftPalate,0
+Cancer_Site_SoftTissue,0
+Cancer_Site_Stomach,0
+Cancer_Site_SubLarynx,0
+Cancer_Site_SubmandibularGland,0
+Cancer_Site_SupraLarynx,0
+Cancer_Site_Testis,0
+Cancer_Site_Thyroid,0
+Cancer_Site_Urethra,0
+Cancer_Site_Vagina,0
+Cancer_Site_Vulva,0
